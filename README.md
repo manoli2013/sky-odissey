@@ -24,7 +24,7 @@ Sky Odyssey is a web application that uses SpaceX API to get information about p
 
 ### User Cases
 
-![User Cases](../sky-odyssey-doc/user-cases.jpg)
+![User Cases](./user-cases.jpg)
 
 ### Flow
 
