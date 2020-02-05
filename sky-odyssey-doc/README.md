@@ -24,22 +24,22 @@ Sky Odyssey is a web application that uses SpaceX API to get information about p
 
 ### User Cases
 
-![User Cases](../sky-odyssey-doc/user-cases.jpg)
+![User Cases](sky-odyssey-doc/user-cases.jpg)
 
 ### Flow
 
-![Flow](./flow.jpg)
+![Flow](sky-odyssey-doc/flow.jpg)
 
 
 ## Technical Description
 
 ### Components
 
-![components](./components.jpg)
+![components](sky-odyssey-doc/components.jpg)
 
 ### Data Model
 
-![block](./block.jpg)
+![block](sky-odyssey-doc/block.jpg)
 
 </center>
 
